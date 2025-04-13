@@ -3,7 +3,7 @@ flask_restful
 pandas
 pillow
 GPUtil
-tensorflow
+tensorflow==2.10.0
 paho-mqtt
 pymongo
 opencv-python
